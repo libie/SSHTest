@@ -6,7 +6,7 @@
 <session-factory>
 	<property name="connection.url">jdbc:oracle:thin:@localhost:1521:ORCL</property>
 	<property name="connection.username">lzh</property>
-	<property name="connection.password">lzh</property>
+	<property name="connection.password">XXX</property>
 	<property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
 	<!--<property name="dialect">org.hibernate.dialect.Oracle9Dialect</property>
 	--><property name="show_sql">true</property>
